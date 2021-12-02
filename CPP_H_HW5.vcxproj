@@ -140,6 +140,11 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="CPP_H_HW5.cpp" />
+    <ClCompile Include="SortLines.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="FindUniqueWords.h" />
+    <ClInclude Include="SortLines.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

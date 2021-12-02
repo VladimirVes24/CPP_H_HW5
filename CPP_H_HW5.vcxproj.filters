@@ -18,5 +18,16 @@
     <ClCompile Include="CPP_H_HW5.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="SortLines.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="FindUniqueWords.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SortLines.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
